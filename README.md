@@ -6,7 +6,7 @@ Node EJS Helper
 
 1. Download http://code.google.com/p/embeddedjavascript/downloads/list
 
-2. 
+2. Demo http://embeddedjs.com/application.html
 
 
 ## Description
@@ -54,7 +54,7 @@ EJS includes view helpers to make building repetitive HTML snippets easier. The 
 
  * Example
 
-    The following builds a form that adds cleaning supplies.
+The following builds a form that adds cleaning supplies.
     
 ```
 <%= form_tag('/cleaning/add_supply') %>
